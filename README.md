@@ -1,0 +1,1 @@
+# skip-pages-extension
